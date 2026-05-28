@@ -1,0 +1,6 @@
+{
+  "name": "Server Monitor",
+  "description": "App to monitor availability of Russian and European servers with notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
